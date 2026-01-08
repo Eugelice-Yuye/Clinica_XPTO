@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D881A9F6-A81D-4DC8-AB09-EE6000DE9B31}|..\\ClinicAPI.Model\\ClinicAPI.Model.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.model\\enuns\\tipoutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA65899C-FB85-4F25-B4FF-8E246954CEB9}|ClinicAPI.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi\\controllers\\pedidosmarcacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA65899C-FB85-4F25-B4FF-8E246954CEB9}|ClinicAPI.csproj|solutionrelative:controllers\\pedidosmarcacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881A9F6-A81D-4DC8-AB09-EE6000DE9B31}|..\\ClinicAPI.Model\\ClinicAPI.Model.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.model\\enuns\\estadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6902B32C-73B9-4731-83C5-763F3AB7F1A4}|..\\ClinicAPI.Interfaces\\ClinicAPI.Interfaces.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.interfaces\\services\\ipedidomarcacaoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D298584F-421D-4443-8543-25D92665EFFE}|..\\ClinicAPI.Services\\ClinicAPI.Services.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.services\\pedidomarcacaoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D298584F-421D-4443-8543-25D92665EFFE}|..\\ClinicAPI.Services\\ClinicAPI.Services.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.services\\profissionalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881A9F6-A81D-4DC8-AB09-EE6000DE9B31}|..\\ClinicAPI.Model\\ClinicAPI.Model.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.model\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA65899C-FB85-4F25-B4FF-8E246954CEB9}|ClinicAPI.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi\\controllers\\profissionaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA65899C-FB85-4F25-B4FF-8E246954CEB9}|ClinicAPI.csproj|solutionrelative:controllers\\profissionaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D298584F-421D-4443-8543-25D92665EFFE}|..\\ClinicAPI.Services\\ClinicAPI.Services.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.services\\utenteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8354213-2D1B-480A-AA31-96861D1A007B}|..\\ClinicAPI.DTO\\ClinicAPI.DTO.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.dto\\novoprofissionaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{846EB193-186A-43FF-AD6F-939E5A907DBB}|..\\ClinicAPI.DAL\\ClinicAPI.DAL.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.dal\\repositories\\profissionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6902B32C-73B9-4731-83C5-763F3AB7F1A4}|..\\ClinicAPI.Interfaces\\ClinicAPI.Interfaces.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.interfaces\\services\\iprofissionalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA65899C-FB85-4F25-B4FF-8E246954CEB9}|ClinicAPI.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi\\controllers\\utentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA65899C-FB85-4F25-B4FF-8E246954CEB9}|ClinicAPI.csproj|solutionrelative:controllers\\utentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA65899C-FB85-4F25-B4FF-8E246954CEB9}|ClinicAPI.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi\\controllers\\utilizadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA65899C-FB85-4F25-B4FF-8E246954CEB9}|ClinicAPI.csproj|solutionrelative:controllers\\utilizadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D298584F-421D-4443-8543-25D92665EFFE}|..\\ClinicAPI.Services\\ClinicAPI.Services.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.services\\utilizadorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{846EB193-186A-43FF-AD6F-939E5A907DBB}|..\\ClinicAPI.DAL\\ClinicAPI.DAL.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.dal\\repositories\\utilizadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D298584F-421D-4443-8543-25D92665EFFE}|..\\ClinicAPI.Services\\ClinicAPI.Services.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.services\\actoclinicoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881A9F6-A81D-4DC8-AB09-EE6000DE9B31}|..\\ClinicAPI.Model\\ClinicAPI.Model.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.model\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8354213-2D1B-480A-AA31-96861D1A007B}|..\\ClinicAPI.DTO\\ClinicAPI.DTO.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.dto\\profissionaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8354213-2D1B-480A-AA31-96861D1A007B}|..\\ClinicAPI.DTO\\ClinicAPI.DTO.csproj|c:\\users\\lice\\documents\\quarto ano\\segundo semestre\\aw\\projecto_final_20210765\\back\\clinicapi.dto\\agendardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipoUtilizador.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\enuns\\TipoUtilizador.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.Model\\enuns\\TipoUtilizador.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\enuns\\TipoUtilizador.cs",
+              "RelativeToolTip": "..\\ClinicAPI.Model\\enuns\\TipoUtilizador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:38:30.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidosMarcacoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI\\Controllers\\PedidosMarcacoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PedidosMarcacoesController.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI\\Controllers\\PedidosMarcacoesController.cs",
+              "RelativeToolTip": "Controllers\\PedidosMarcacoesController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:19:01.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstadoPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\enuns\\EstadoPedido.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.Model\\enuns\\EstadoPedido.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\enuns\\EstadoPedido.cs",
+              "RelativeToolTip": "..\\ClinicAPI.Model\\enuns\\EstadoPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:17:49.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profissional.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\Profissional.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.Model\\Profissional.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\Profissional.cs",
+              "RelativeToolTip": "..\\ClinicAPI.Model\\Profissional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:10:39.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfissionalServices.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Services\\ProfissionalServices.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.Services\\ProfissionalServices.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Services\\ProfissionalServices.cs",
+              "RelativeToolTip": "..\\ClinicAPI.Services\\ProfissionalServices.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwHEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:27:50.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPedidoMarcacaoServices.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Interfaces\\Services\\IPedidoMarcacaoServices.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.Interfaces\\Services\\IPedidoMarcacaoServices.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Interfaces\\Services\\IPedidoMarcacaoServices.cs",
+              "RelativeToolTip": "..\\ClinicAPI.Interfaces\\Services\\IPedidoMarcacaoServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:18:46.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoMarcacaoServices.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Services\\PedidoMarcacaoServices.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.Services\\PedidoMarcacaoServices.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Services\\PedidoMarcacaoServices.cs",
+              "RelativeToolTip": "..\\ClinicAPI.Services\\PedidoMarcacaoServices.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAowKkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:04:05.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NovoProfissionalDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DTO\\NovoProfissionalDto.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.DTO\\NovoProfissionalDto.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DTO\\NovoProfissionalDto.cs",
+              "RelativeToolTip": "..\\ClinicAPI.DTO\\NovoProfissionalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:37:42.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfissionaisController.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI\\Controllers\\ProfissionaisController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfissionaisController.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI\\Controllers\\ProfissionaisController.cs",
+              "RelativeToolTip": "Controllers\\ProfissionaisController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:28:40.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UtenteServices.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Services\\UtenteServices.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.Services\\UtenteServices.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Services\\UtenteServices.cs",
+              "RelativeToolTip": "..\\ClinicAPI.Services\\UtenteServices.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwEAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:38:30.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProfissionalServices.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Interfaces\\Services\\IProfissionalServices.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.Interfaces\\Services\\IProfissionalServices.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Interfaces\\Services\\IProfissionalServices.cs",
+              "RelativeToolTip": "..\\ClinicAPI.Interfaces\\Services\\IProfissionalServices.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:05:00.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UtentesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI\\Controllers\\UtentesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UtentesController.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI\\Controllers\\UtentesController.cs",
+              "RelativeToolTip": "Controllers\\UtentesController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwD8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:47:53.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfissionalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DAL\\Repositories\\ProfissionalRepository.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.DAL\\Repositories\\ProfissionalRepository.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DAL\\Repositories\\ProfissionalRepository.cs",
+              "RelativeToolTip": "..\\ClinicAPI.DAL\\Repositories\\ProfissionalRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:59:59.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UtilizadoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI\\Controllers\\UtilizadoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UtilizadoresController.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI\\Controllers\\UtilizadoresController.cs",
+              "RelativeToolTip": "Controllers\\UtilizadoresController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:00:28.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UtilizadorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DAL\\Repositories\\UtilizadorRepository.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.DAL\\Repositories\\UtilizadorRepository.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DAL\\Repositories\\UtilizadorRepository.cs",
+              "RelativeToolTip": "..\\ClinicAPI.DAL\\Repositories\\UtilizadorRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:52:17.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UtilizadorServices.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Services\\UtilizadorServices.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.Services\\UtilizadorServices.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Services\\UtilizadorServices.cs",
+              "RelativeToolTip": "..\\ClinicAPI.Services\\UtilizadorServices.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:30:28.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ActoClinicoServices.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Services\\ActoClinicoServices.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.Services\\ActoClinicoServices.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Services\\ActoClinicoServices.cs",
+              "RelativeToolTip": "..\\ClinicAPI.Services\\ActoClinicoServices.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:41:39.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Utilizador.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\Utilizador.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.Model\\Utilizador.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\Utilizador.cs",
+              "RelativeToolTip": "..\\ClinicAPI.Model\\Utilizador.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:38:40.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfissionalDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DTO\\ProfissionalDto.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.DTO\\ProfissionalDto.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DTO\\ProfissionalDto.cs",
+              "RelativeToolTip": "..\\ClinicAPI.DTO\\ProfissionalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:38:19.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AgendarDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DTO\\AgendarDto.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAPI.DTO\\AgendarDto.cs",
+              "ToolTip": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DTO\\AgendarDto.cs",
+              "RelativeToolTip": "..\\ClinicAPI.DTO\\AgendarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:03:29.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

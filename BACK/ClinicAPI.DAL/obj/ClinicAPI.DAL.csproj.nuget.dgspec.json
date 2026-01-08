@@ -1,0 +1,350 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DAL\\ClinicAPI.DAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DAL\\ClinicAPI.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DAL\\ClinicAPI.DAL.csproj",
+        "projectName": "ClinicAPI.DAL",
+        "projectPath": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DAL\\ClinicAPI.DAL.csproj",
+        "packagesPath": "C:\\Users\\Lice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Interfaces\\ClinicAPI.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Interfaces\\ClinicAPI.Interfaces.csproj"
+              },
+              "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\ClinicAPI.Model.csproj": {
+                "projectPath": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\ClinicAPI.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2025.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DTO\\ClinicAPI.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DTO\\ClinicAPI.DTO.csproj",
+        "projectName": "ClinicAPI.DTO",
+        "projectPath": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DTO\\ClinicAPI.DTO.csproj",
+        "packagesPath": "C:\\Users\\Lice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\ClinicAPI.Model.csproj": {
+                "projectPath": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\ClinicAPI.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2025.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Interfaces\\ClinicAPI.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Interfaces\\ClinicAPI.Interfaces.csproj",
+        "projectName": "ClinicAPI.Interfaces",
+        "projectPath": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Interfaces\\ClinicAPI.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Lice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DTO\\ClinicAPI.DTO.csproj": {
+                "projectPath": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.DTO\\ClinicAPI.DTO.csproj"
+              },
+              "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\ClinicAPI.Model.csproj": {
+                "projectPath": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\ClinicAPI.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2025.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\ClinicAPI.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\ClinicAPI.Model.csproj",
+        "projectName": "ClinicAPI.Model",
+        "projectPath": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\ClinicAPI.Model.csproj",
+        "packagesPath": "C:\\Users\\Lice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lice\\Documents\\QUARTO ANO\\SEGUNDO SEMESTRE\\AW\\PROJECTO_FINAL_20210765\\BACK\\ClinicAPI.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2025.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
